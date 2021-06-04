@@ -117,19 +117,21 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
+- title: Crypto
+  url: /crypto/
+- title: Investments
+  url: /investments/
+- title: Courses
+  url: /courses/
+- title: Tasks
+  url: /tasks/
 - title: Blog
   url: /blog/
-- title: Categories
-  url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
+  title: Created by Charles the lover of Casper
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
