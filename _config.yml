@@ -102,6 +102,12 @@ email: "me@daviddarnes.com"
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+# --- Colours / background image --- #
+# Personalize the colours in your website. Colour values can be any valid CSS colour
+footer-col: "#EAEAEA"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
 # 8. Site favicons & manifest icons
 favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   16: '/assets/logos/logo@16px.png'
@@ -131,7 +137,7 @@ navigation_header:
   url: /search/
 
 navigation_footer:
-  title: Created by The lover of Casper
+- title: Created by the lover of Casper
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
