@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Crypto
-  url: /crypto.md
+  url: /crypto/
 - title: Investments
   url: /investments/
 - title: Courses
