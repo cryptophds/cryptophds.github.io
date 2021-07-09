@@ -24,3 +24,11 @@ Followings are the task for the 2nd week June 2021:
    - Write a complete report on solana ecosystem.
    - Comparision with ETH vs SOL.
 
+
+### Create Hindi coursework for Bitcoin
+
+1. Use MIT course slides and create a first sketch version.
+
+2. More technical aspects and improve on the course.
+
+
