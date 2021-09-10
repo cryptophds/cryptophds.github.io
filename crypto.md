@@ -6,12 +6,15 @@ aside: false
 
 The First three is taken from the YouTube Channel [MDNFT](https://www.youtube.com/channel/UCnJxw7QrJMG9vNAaci8qM-A) 
 
-1. [Rarity Tools](https://rarity.tools/) : Complete information and detailed
+1. [Rarity Tools](https://rarity.tools/). Complete information and detailed
     research.
 
-2. [WGMI IO](https://wgmi.io/): Website that tracks the NFT projects. There
+2. [WGMI IO](https://wgmi.io/). Website that tracks the NFT projects. There
     is a premium site associated, that charges 0.1ETh to track your NFT worth.
     Follow The discord. 
+
+3. [NFT Drops](https://niftydrops.io/). The app to track upcoming nft airdrops and sale.
+    Follow the twitter handle @Hunter_NFT.
 
 
 ##### Twitter Profile to follow:
