@@ -27,6 +27,8 @@ title: The 100 Grand Challange
   I'm following a particular telegram startegy. 
 - Goals
   10x in 60 days.
+
+Future Coins: starlaunch solana
 ``` 
 
 3. **Casper lover**
