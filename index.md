@@ -12,6 +12,13 @@ excerpt: "A group of BPL (Below Poverty Line) students trying to make [Wife Chan
 
 <br/>
 
+<script src="https://widgets.coingecko.com/coingecko-coin-heatmap-widget.js"></script>
+<coingecko-coin-heatmap-widget  height="600" locale="en"></coingecko-coin-heatmap-widget>
+
+<br/>
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
+
+
 ## Topics we will focus
   - **Crypto assets**: their investigation, analysis, trading, and investment.
   - **Courses** that we follow.
