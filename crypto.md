@@ -44,6 +44,14 @@ The First three is taken from the YouTube Channel [MDNFT](https://www.youtube.co
   5/10
 
 
+#### Learning and mistakes
+
+1. Always invest money in a fundamentally good project.
+  In a long run they always perform better.
+  Crap coins just sucks energy, and suck blood. 
+
+  Case study ....
+
 #### MY Referrals:
 
 1. [Gate IO](https://www.gate.io/signup/3185873)
