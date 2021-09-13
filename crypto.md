@@ -4,7 +4,7 @@ aside: false
 
 #### NFT tools site:
 
-The First three is taken from the YouTube Channel [MDNFT](https://www.youtube.com/channel/UCnJxw7QrJMG9vNAaci8qM-A) 
+The first of the three is taken from the YouTube Channel [MDNFT](https://www.youtube.com/channel/UCnJxw7QrJMG9vNAaci8qM-A) 
 
 1. [Rarity Tools](https://rarity.tools/). Complete information and detailed
     research.
