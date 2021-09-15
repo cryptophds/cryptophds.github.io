@@ -2,6 +2,10 @@
 aside: false
 ---
 
+
+#### Development resources:
+1. [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) 
+
 #### NFT tools site:
 
 The first of the three is taken from the YouTube Channel [MDNFT](https://www.youtube.com/channel/UCnJxw7QrJMG9vNAaci8qM-A) 
