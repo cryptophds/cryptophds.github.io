@@ -20,6 +20,7 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 3. [NFT Drops](https://niftydrops.io/). The app to track upcoming nft airdrops and sale.
     Follow the twitter handle @Hunter_NFT.
 
+4. [NFTSolana](https://nftsolana.io/events/list/). List of upcoming minting projects. 
 
 ##### Twitter Profile to follow:
 1. [Girl dad](https://twitter.com/girldadNFT)
