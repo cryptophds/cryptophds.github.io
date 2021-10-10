@@ -33,14 +33,12 @@ Future Coins: starlaunch solana
 3. **Casper lover**
 ```
 - What I'm Buying
-  (i) Findora
-  (ii) Chess 
+  (i) Joe
 - Why I'm Buying?
-      Coz I'm a Chootiya ....
+      Because he was my great friend
 - Goals
       .... No Gains. Only Loss.  
-      I'm a noob. I'm here for the tech....
-``` 
+ 
 
 
 
