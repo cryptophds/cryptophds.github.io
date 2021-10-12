@@ -38,6 +38,11 @@ Current Total holdings (Tokens+NFTs): 15540,51
 |Charles|  12    |
 |Ankit  |  31    |
 
+Transfers to Ankit from Charles : 2.6+12.1+10.56+5.86
+
+Ankit's transfers to Charles + Alakh: ??
+
+Comment: Sol distribution should be updated where Ankit's transfers to the rest needs to be subtracted
 
 
 
