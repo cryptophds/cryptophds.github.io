@@ -25,10 +25,8 @@ title: The 100 Grand Challange
 |Nasty| 2      |0.7  |210  |
 
 <br/><br/>
-<br/><br/>
-Current Total holdings: 15540,51
+Current Total holdings (Tokens+NFTs): 15540,51
 
-<br/><br/>
 <br/><br/>
 
 
