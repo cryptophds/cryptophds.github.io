@@ -2,54 +2,51 @@
 title: The 100 Grand Challange
 ---
 
-|Name |Quantity|
-|-----|--------|
-|Apple|3       |
-|Egg  |12      |
+
+# Token holdings
+
+|Name |Quantity|Price|Value|
+|-----|--------|-----|-----|
+|SOL  |47      |150  |7068 |
+|EFI  |677     |0.77 |500  |
+|CFG  |100     |1.56 |150  |
+|IMX  |50      |-    |     |     
+|CHESS|21      |3.6  |79   |
+|Joe  |163     |1.77 |288  |
+
+
+## NFT Table 
+
+|Name |Quantity|Floor|Value|
+|-----|--------|-----|-----|
+|AI   | 1+     |3    |450  |
+|Degod| 3      |15   |6750 |
+|Redb | 1      |0.3  |45   |
+|Nasty| 2      |0.7  |210  |
+
+
+Current Total holdings: 15540,51
+
+
+
+## SOL distribution:
+
+Alakh:    4  SOL
+Charles:  12 SOL
+Ankit:    31 SOL
 
 
 
 
-1. **Mina seller**
+## Charles fuckups (Deep apologies)
 
-```
-- What I'm Buying
-  (i) Stocks
-  (ii) Tresury Bonds 
-- Why I'm Buying?
-      Sorry I'm just a seller ....
-- Goals
-      .... Gain 6.5 APY this year ...
-``` 
-2. **Sifchain farmer** 
-```
-- What I'm Buying
-(i) $VIOT
-(ii) $SIENNA
-     privacy meets DeFi.
-     Huge contributors and partners.
-     Runs on Secret Network $SCRT
-     Private sale $5, Currently $17
-     Supply 350k/10m, $3.5m mcap
-- Why I'm Buying?
-  I'm following a particular telegram startegy. 
-- Goals
-  10x in 60 days.
-Future Coins: starlaunch solana
-``` 
-
-3. **Casper lover**
-```
-- What I'm Buying
-  (i) Joe
-- Why I'm Buying?
-      Because he was my great friend
-- Goals
-      .... No Gains. Only Loss.  
- 
+|Name |Quantity|%down|Entry|Current|
+|-----|--------|-----|-----|-------|
+|Joe  | 163    | 50% |3.19 |1.77   |
 
 
+## Comments
 
-   
-
-
+1. Alakh's 1000 was reinvested back in NFTs
+2. Charles' 50% of his 1k was reinvested back in Mina, which got transfered to SOL again for NFTs
+3. Ankit took his 1000 
