@@ -24,9 +24,12 @@ title: The 100 Grand Challange
 |Redb | 1      |0.3  |45   |
 |Nasty| 2      |0.7  |210  |
 
-
+<br/><br/>
+<br/><br/>
 Current Total holdings: 15540,51
 
+<br/><br/>
+<br/><br/>
 
 
 ### SOL distribution:
