@@ -12,7 +12,8 @@ title: The 100 Grand Challange
 |CFG  |100     |1.56 |150  |
 |IMX  |50      |-    |     |     
 |CHESS|21      |3.6  |79   |
-|Joe  |163     |1.77 |288  |
+|JOE  |163     |1.77 |288  |
+|RLY  |41.6    |0.55 |45   |
 
 
 ### NFT Table 
@@ -25,7 +26,7 @@ title: The 100 Grand Challange
 |Nasty| 2      |0.7  |210  |
 
 <br/><br/>
-Current Total holdings (Tokens+NFTs): 15540,51
+Current Total holdings (Tokens+NFTs): 15585,51
 
 <br/><br/>
 
