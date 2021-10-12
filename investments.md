@@ -3,7 +3,7 @@ title: The 100 Grand Challange
 ---
 
 
-# Token holdings
+### Token holdings
 
 |Name |Quantity|Price|Value|
 |-----|--------|-----|-----|
@@ -15,7 +15,7 @@ title: The 100 Grand Challange
 |Joe  |163     |1.77 |288  |
 
 
-## NFT Table 
+### NFT Table 
 
 |Name |Quantity|Floor|Value|
 |-----|--------|-----|-----|
@@ -29,7 +29,7 @@ Current Total holdings: 15540,51
 
 
 
-## SOL distribution:
+### SOL distribution:
 
 Alakh:    4  SOL
 Charles:  12 SOL
@@ -38,14 +38,14 @@ Ankit:    31 SOL
 
 
 
-## Charles fuckups (Deep apologies)
+### Charles fuckups (Deep apologies)
 
 |Name |Quantity|%down|Entry|Current|
 |-----|--------|-----|-----|-------|
 |Joe  | 163    | 50% |3.19 |1.77   |
 
 
-## Comments
+### Comments
 
 1. Alakh's 1000 was reinvested back in NFTs
 2. Charles' 50% of his 1k was reinvested back in Mina, which got transfered to SOL again for NFTs
