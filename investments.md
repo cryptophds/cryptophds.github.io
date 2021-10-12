@@ -32,9 +32,11 @@ Current Total holdings (Tokens+NFTs): 15540,51
 
 ### SOL distribution:
 
-Alakh:    4  SOL
-Charles:  12 SOL
-Ankit:    31 SOL
+|Name   |SOL     |
+|-------|--------|
+|Alakh  |   4    | 
+|Charles|  12    |
+|Ankit  |  31    |
 
 
 
