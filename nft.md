@@ -15,7 +15,7 @@ aside: false
 
 2. [SupDrive](https://twitter.com/supdrive). date not annocunced coming soon. On-chain fantasy game console — coming soon
 
-3. [SkullXNFT](https://twitter.com/SkullxNFT). No date.
+3. [SkullXNFT](https://twitter.com/SkullxNFT). Date has been announced October 29th, PDT 13:00.
 
 4. [RTFKT](https://twitter.com/RTFKTstudios)
    CloneX. No date yet. Dutch auction. 
