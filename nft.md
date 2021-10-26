@@ -19,3 +19,22 @@ aside: false
 
 4. [RTFKT](https://twitter.com/RTFKTstudios)
    CloneX. No date yet. Dutch auction. 
+
+
+#### Interesting BUY Below 1 ETH
+
+1. [DeadFellaz](https://opensea.io/collection/deadfellaz).
+   Currently 0.7 ETH. Wait for this go a bit down.  
+2. [HeadDAO](https://opensea.io/collection/headdao). Currently 0.56 ETH. 
+   Wait for around 0.25-0.3 ETH (recently was there).
+3. [Robotos Offical](https://opensea.io/collection/robotos-official).
+   Current floor price is 0.67 ETH. 
+4. [The Wicked Craniums](https://opensea.io/collection/thewickedcraniums). 
+   Floor is 0.17 ETH. Not a premium project.
+5. [Curio Cards](https://opensea.io/collection/curiocardswrapper).
+  Current sloor price is 0.424 ETH. Long back project and can bounce back. 
+  Old hourse.
+6. [MoonCats Rescue](https://opensea.io/collection/wrapped-mooncatsrescue).
+  Current floor price is 0.9 ETH. Looks realted to the mooncat.
+
+
