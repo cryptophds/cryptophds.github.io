@@ -38,6 +38,68 @@ aside: false
   Current floor price is 0.9 ETH. Looks realted to the mooncat.
 
 
+### Development resources:
+1. [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) 
+
+#### NFT tools site:
+
+The first of the three is taken from the YouTube Channel [MDNFT](https://www.youtube.com/channel/UCnJxw7QrJMG9vNAaci8qM-A) 
+
+1. [Rarity Tools](https://rarity.tools/). Complete information and detailed
+    research.
+
+2. [WGMI IO](https://wgmi.io/). Website that tracks the NFT projects. There
+    is a premium site associated, that charges 0.1ETh to track your NFT worth.
+    Follow The discord. 
+
+3. [NFT Drops](https://niftydrops.io/). The app to track upcoming nft airdrops and sale.
+    Follow the twitter handle @Hunter_NFT.
+
+4. [WhoTwi](https://en.whotwi.com/). See what other people are following currently.
+   Starting with the most recent follow.
+
+#### Upcoming projects
+
+1. [Howrare](http://howrare.is/). The goto site to check the upcoming drops on SOL.
+  [Rarity.Tools](https://rarity.tools/) for ethreum. Click upcoming tabs.
+
+2. [NextDrop](https://nextdrop.is/). List upcoming projects on ETH.
+
+3. [NFTCalendar](https://nftcalendar.io/). Details of the site unlike Howrare. 
+
+4. [NFTSolana](https://nftsolana.io/events/list/). List of upcoming minting projects. 
+
+
+#### Mint scanners
+
+1. [Moby.gg](https://moby.gg/). The site is for etherium. 
+   They moniter all the NFT minting. 
+   Setup discord alerts etc. 0.1 ETH for the 6 months subscription.
+
+2. [icy.tools] (https://icy.tools/). Shows per hour stats for free. 
+   Take 0.03 ETH per month. 
+
+3. [whatsminting.live](https://whatsminting.live/). Free no subscription.
+
+
+#### Analyse secondary market
+
+1. [nansen.ai](https://www.nansen.ai/). Best tool for the anlysis. 
+   Breakdown, Hodlers tab for each project.  
+
+
+#### Sniping Tools
+
+1. [freshdrops.io](https://freshdrops.io/). Ranked order by Rarity.
+   You have to buy Freshdrop nft, which is 0.63 NFT.
+
+   [Rarity.Tools](https://rarity.tools/) for ethreum. Click upcoming tabs.
+
+2. [RyzeNFT](https://ryzensolutions.net/nft). New product.
+   Feature which help you mint NFT faster. Contract Minter.
+   Mint from the contract and you don't need to go on the site.
+   Opensea Sniper. 1 ETH price of the tool.
+
 ### DAO Plays 100x possible
 
 1. [BDCArchade](https://twitter.com/BDCArcade)
@@ -47,4 +109,3 @@ aside: false
   Floor is ETH 0.148.
 
 3. [HeadDAO](https://opensea.io/collection/headdao)
-
