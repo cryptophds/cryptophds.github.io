@@ -7,7 +7,6 @@ aside: false
 1. [GoblinLabs](https://twitter.com/GoblinLabNFT). 27th Oct 2021. 
    Total 5000 Goblin.  
 
-
 #### Upcoming ETH Nfts:
 
 1. @imxpunks [IMX Punk](https://imxpunks.com/). First punk project on Immutable X.
@@ -37,6 +36,15 @@ aside: false
 6. [MoonCats Rescue](https://opensea.io/collection/wrapped-mooncatsrescue).
   Current floor price is 0.9 ETH. Looks realted to the mooncat.
 
+### DAO Plays 100x possible
+
+1. [BDCArchade](https://twitter.com/BDCArcade)
+  Pretty early. Can't see any opeansea link.
+
+2. [CryptoZombies](https://opensea.io/collection/cryptozombieznft)
+  Floor is ETH 0.148.
+
+3. [HeadDAO](https://opensea.io/collection/headdao)
 
 ### Development resources:
 1. [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) 
@@ -58,7 +66,7 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 4. [WhoTwi](https://en.whotwi.com/). See what other people are following currently.
    Starting with the most recent follow.
 
-#### Upcoming projects
+#### To find upcoming projects
 
 1. [Howrare](http://howrare.is/). The goto site to check the upcoming drops on SOL.
   [Rarity.Tools](https://rarity.tools/) for ethreum. Click upcoming tabs.
@@ -100,12 +108,3 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
    Mint from the contract and you don't need to go on the site.
    Opensea Sniper. 1 ETH price of the tool.
 
-### DAO Plays 100x possible
-
-1. [BDCArchade](https://twitter.com/BDCArcade)
-  Pretty early. Can't see any opeansea link.
-
-2. [CryptoZombies](https://opensea.io/collection/cryptozombieznft)
-  Floor is ETH 0.148.
-
-3. [HeadDAO](https://opensea.io/collection/headdao)
