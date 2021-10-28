@@ -7,29 +7,6 @@ aside: false
 1. [GoblinLabs](https://twitter.com/GoblinLabNFT). 27th Oct 2021. 
    Total 5000 Goblin.  
    
-   
-#### Upcoming IMX Projects:
-
-|  | Name | Price | Date | Details |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-| 1 | IMX Utopian unicorns  | 0.08 | TBA | Gaming+Breeding + Cross community (e.g. Ape+unicorn=Api-corn nft<br> |
-| 2 | Oh My Giraffe  |  | Nov 03 | Launchpad and Partnered with moodykrows |
-| 3 | Metalegends |  |  | Metalegends is a Bluechip |
-| 4 | Angry boars |  | Already over | Dropping angry meerkats +token OINK |
-| 5 | G-Fox |  | Mid-Nov | Art looks cool |
-| 6 | Panda paradise | Floor 0.025 | already over | 1. They bought bored ape, kaiju kingz, coolcats nft<br>2. Use Dao to buy bluechip projects and fractionalize them with new tokens and distribute to holders<br> |
-| 7 | Funky Shroooms |  |  |  |
-| 8 | IMX apes | 0.035 | tba |  |
-| 9 | Battle catz |  |  |  |
-| 10 | Baby Walrus gang |  |  |  |
-| 11 | Short bear cubs |  |  |  |
-| 12 | VEVE official |  |  |  |
-
-
-
-
-
 #### Upcoming ETH Nfts:
 
 1. @imxpunks [IMX Punk](https://imxpunks.com/). First punk project on Immutable X.
