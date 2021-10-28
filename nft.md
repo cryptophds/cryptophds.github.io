@@ -14,10 +14,10 @@ aside: false
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 | 1 | IMX Utopian unicorns  | 0.08 | TBA | 1. Gaming<br>2. Breeding<br>3. Cross community (e.g. Ape+unicorn=Api-corn nft<br>4. Seems like a bluechip |
-| 2 | Oh My Giraffe  |  | Wed Nov 03 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | 1. Launchpad<br>2. Partnered with moodykrows |
+| 2 | Oh My Giraffe  |  | Nov 03 | 1. Launchpad<br>2. Partnered with moodykrows |
 | 3 | Metalegends |  |  | Bluechip |
 | 4 | Angry boars |  | Already over | 1. They are dropping angry meerkats for the holders<br>2. Utility token OINK<br>3. New Breeding model<br>4. New Game |
-| 5 | G-Fox |  | Mid-Late November, 2021 | Art looks cool |
+| 5 | G-Fox |  | Mid-Nov | Art looks cool |
 | 6 | Panda paradise | Floor is 0.025 | already over | 1. They bought bored ape, kaiju kingz, coolcats nft<br>2. They buy bluechip projects and fractionalize them with new tokens and distribute to holders<br>3. Has a dao that manages these purchases |
 | 7 | Funky Shroooms |  |  |  |
 | 8 | IMX apes | 0.035 | tba |  |
