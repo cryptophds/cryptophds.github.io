@@ -10,7 +10,7 @@ aside: false
    
 #### Upcoming IMX Projects:
 
-|  | Name | Price | Sale Date | Details | Twitter |
+|  | Name | Price | Date | Details | Twitter |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 | 1 | IMX Utopian unicorns  (seems like a bluechip) | 0.08 | TBA | 1. Gaming<br>2. Breeding<br>3. Cross community (e.g. Ape+unicorn=Api-corn nft |  |
