@@ -10,20 +10,21 @@ aside: false
    
 #### Upcoming IMX Projects:
 
-| IMX Utopian unicorns  | 10k | 0.05 presale | Fri Oct 22 2021 18:00:00 GMT-0400 (Eastern Daylight Time) | TBA | 1. Gaming<br>2. Breeding<br>3. Cross community (e.g. Ape+unicorn=Api-corn nft |  |  | Seems like a bluechip |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oh My Giraffe | 9999 |  | Tue Nov 02 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | Wed Nov 03 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | 1. Launchpad<br> | 1. Moodykrows | https://twitter.com/OhMyGiraffeNFT |  |
-| Metalegends |  |  |  |  |  |  | https://twitter.com/metalegendsnft | Yes<br>already 90k discord members |
-| Angry boars |  |  | Already over | Already over | 1. They are dropping angry meerkats for the holders<br>2. Utility token OINK<br>3. New Breeding model<br>4. New Game |  | https://twitter.com/angryboars |  |
-| G-Fox | 9271 |  | 0.08 | Mid-Late November, 2021 | Art looks cool |  | https://twitter.com/gfoxnft |  |
-| Panda paradise | 8888 | Floor price is 0.025 | Already over | already over | 1. They bought bored ape, kaiju kingz, coolcats nft<br>2. They buy bluechip projects and fractionalize them with new tokens and distribute to holders<br>3. Has a dao that manages these purchases |  | https://twitter.com/pandaparadiseio |  |
-| Funky Shroooms |  |  |  |  |  |  | https://twitter.com/funky_shrooms |  |
-| IMX apes |  | 0.035 | 0.05 | tba |  |  | https://twitter.com/IMXApes |  |
-| Battle catz |  |  |  |  |  |  |  |  |
-| Baby Walrus gang |  |  |  |  |  |  |  |  |
-| Short bear cubs |  |  |  |  |  |  |  |  |
-| VEVE official |  |  |  |  |  |  |  |  |
-
+| Name | Price | Sale Date | Details | Twitter |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| IMX Utopian unicorns  (seems like a bluechip) | 0.08 | TBA | 1. Gaming<br>2. Breeding<br>3. Cross community (e.g. Ape+unicorn=Api-corn nft |  |
+| Oh My Giraffe (partnered moodykrows |  | Wed Nov 03 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | 1. Launchpad<br> | https://twitter.com/OhMyGiraffeNFT |
+| Metalegends (Bluechip) |  |  |  | https://twitter.com/metalegendsnft |
+| Angry boars |  | Already over | 1. They are dropping angry meerkats for the holders<br>2. Utility token OINK<br>3. New Breeding model<br>4. New Game | https://twitter.com/angryboars |
+| G-Fox |  | Mid-Late November, 2021 | Art looks cool | https://twitter.com/gfoxnft |
+| Panda paradise | Floor is 0.025 | already over | 1. They bought bored ape, kaiju kingz, coolcats nft<br>2. They buy bluechip projects and fractionalize them with new tokens and distribute to holders<br>3. Has a dao that manages these purchases | https://twitter.com/pandaparadiseio |
+| Funky Shroooms |  |  |  | https://twitter.com/funky_shrooms |
+| IMX apes | 0.035 | tba |  | https://twitter.com/IMXApes |
+| Battle catz |  |  |  |  |
+| Baby Walrus gang |  |  |  |  |
+| Short bear cubs |  |  |  |  |
+| VEVE official |  |  |  |  |
 
 #### Upcoming ETH Nfts:
 
