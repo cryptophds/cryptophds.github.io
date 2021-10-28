@@ -14,7 +14,7 @@ aside: false
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
 | 1 | IMX Utopian unicorns  | 0.08 | TBA | Gaming+Breeding + Cross community (e.g. Ape+unicorn=Api-corn nft<br> |
-| 2 | Oh My Giraffe  |  | Wed Nov 03 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | Launchpad and Partnered with moodykrows |
+| 2 | Oh My Giraffe  |  | Nov 03 | Launchpad and Partnered with moodykrows |
 | 3 | Metalegends |  |  | Metalegends is a Bluechip |
 | 4 | Angry boars |  | Already over | Dropping angry meerkats +token OINK |
 | 5 | G-Fox |  | Mid-Nov | Art looks cool |
