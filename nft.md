@@ -12,7 +12,7 @@ aside: false
 
 |Name |Quantity|Price|Presale|Sale|Details|
 |-----|--------|-----|-----|------|------|
-|IMX utopian unicons  |10k|   |10/23   |  |150  |1. 
+|IMX utopian unicons  |10k|   |10/23   |  |1. 
 2. 
 3. |
 |IMX utopian unicons  |10k|   |10/23   |  |150  |1. |
