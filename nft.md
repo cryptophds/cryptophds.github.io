@@ -6,6 +6,17 @@ aside: false
 #### Upcoming SOL NFTs:
 1. [GoblinLabs](https://twitter.com/GoblinLabNFT). 27th Oct 2021. 
    Total 5000 Goblin.  
+   
+   
+#### Upcoming IMX Projects:
+
+|Name |Quantity|Price|Presale|Sale|Details|
+|-----|--------|-----|-----|------|------|
+|IMX utopian unicons  |10k|   |10/23   |  |150  |1. 
+2. 
+3. |
+|IMX utopian unicons  |10k|   |10/23   |  |150  |1. |
+
 
 #### Upcoming ETH Nfts:
 
