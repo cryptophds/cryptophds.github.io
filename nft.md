@@ -12,7 +12,7 @@ aside: false
 
 |  | Name | Price | Sale Date | Details | Twitter |
 | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+|  |  |  |  | <img width=200/> |  |
 | 1 | IMX Utopian unicorns  | 0.08 | TBA | 1. Gaming<br>2. Breeding<br>3. Cross community (e.g. Ape+unicorn=Api-corn nft<br>4. Seems like a bluechip |  |
 | 2 | Oh My Giraffe  |  | Wed Nov 03 2021 19:00:00 GMT-0400 (Eastern Daylight Time) | 1. Launchpad<br>2. Partnered with moodykrows | https://twitter.com/OhMyGiraffeNFT |
 | 3 | Metalegends |  |  | Bluechip | https://twitter.com/metalegendsnft |
