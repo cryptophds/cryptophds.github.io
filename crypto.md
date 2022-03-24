@@ -9,6 +9,8 @@ aside: false
 
 2. [Bubble Traker](https://cryptobubbles.net/): Daily weekly Tracker.
 
+3. [Pantera Capital](https://panteracapital.com/)
+
 #### Youtubers to Follow (With Ranking)
 
 1. [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg):
