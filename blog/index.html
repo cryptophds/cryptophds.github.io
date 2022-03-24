@@ -2,3 +2,284 @@
 layout: blog
 collectionpage: posts
 ---
+
+I followed a Blog https://learn.figment.io/tutorials/sol-mint-token
+
+
+Solana has a Token Program, written in Rust, that will allow us to create our own token.
+
+### Create SOL token on the 
+
+
+1. Created new Wallet
+Buddha@buddha-ThinkPad-T480s:~$ solana-keygen new
+Generating a new keypair
+
+For added security, enter a BIP39 passphrase
+
+NOTE! This passphrase improves security of the recovery seed phrase NOT the
+keypair file itself, which is stored as insecure plain text
+
+BIP39 Passphrase (empty for none):
+Enter same passphrase again:
+
+Wrote new keypair to /home/buddha/.config/solana/id.json
+==================================================================================
+pubkey: 6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+==================================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+toe decline skill select truth artist tortoise sand possible giraffe obvious vocal
+==================================================================================
+
+
+
+
+
+2. If you have multiple files in the .config/solana/ fold;er you can select a default one
+   by the following command
+
+  $solana config set --keypair ~/.config/solana/devnet.json
+
+
+  - To get started, read the fine manuals in the help system solana help config, 
+  solana help balance and solana help airdrop
+
+
+
+
+3. Fund your Wallet
+  - I used Phantom to the publickey transfer.
+
+  buddha@buddha-ThinkPad-T480s:~$ solana address
+  6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.005 SOL
+
+
+
+
+4. Install the spl-token CLI
+  $ cargo install spl-token-cli
+
+
+
+
+5. Create the token, which will return the tokenAddress
+  $ spl-token create-token
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token create-token
+  Creating token EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+
+  Signature: 4WHuKTd8pnSP6kGLDeGJ7Tr2UdCZmm66W1q8iNLVRTwRMBBySGw4P287PpghkKYhCftSVk5tDgQ8RzUicKvPBMAc
+
+ 
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.0035284 SOL
+
+  - The Sol balance got reduced after this step. Took around 0.0015 SOL
+
+ 
+
+  --------------------------------------------------------------------
+  My Wallet address      6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+  Token Address          EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  --------------------------------------------------------------------
+
+
+
+
+
+6. Create an account to handle the tokens
+   Create an account, which will return the accountAddress, with the token address being your token's address:
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token create-account EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Creating account 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+
+  Signature: 3Dx9TyjJf49QKJTJwYyGXLpxToLwc3hhXAruhTYbFDbUCAxKUXcK6Xfm33u4RohNJpxQFyhGcE2NGmWdbj9tubsY
+
+  --------------------------------------------------------------------
+  My Wallet address      6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+  Token address          EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Token account          2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  --------------------------------------------------------------------
+
+
+  buddha@buddha-ThinkPad-T480s:~$ solana balance 6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+  0.00148412 SOL
+
+  More SOL are gone from the account.
+
+
+
+
+7. Mint the tokens
+   - The recipientAddress would be the account you created to handle the tokens in the previous step.
+
+   $ spl-token mint tokenAddress mintAmount recipientAddress
+
+   $ buddha@buddha-ThinkPad-T480s:~$ spl-token mint EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj 1000000000 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  Minting 1000000000 tokens
+  Token: EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Recipient: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+
+  Signature: XBPzuoZcWU68BGZuxAqVLpaf25WewMBU41T7T9MXA7mov4Q5uv82DeiXYHfC8ELsjpMEErJE7GbjWtw2fVMzX1b
+
+
+  - To check the balance of the tokens you have just typr
+   
+  $buddha@buddha-ThinkPad-T480s:~$ spl-token balance EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  1000000000
+
+  So now we have 1 Billion Tokens.
+
+  - Minited 500 more just to burn them in the future.
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token mint EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj 500 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  Minting 500 tokens
+  Token: EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Recipient: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+
+  Signature: 3QebH15Ywk1hoUcerSMbNK1BdGy29kKBZMXDm5w9HvTEnCKtpmxS5D8Hup9s7WjDUP8kaKNXm9fUtu9GwjLLM7Bz
+
+
+  - Now I have a total of ... 
+  buddha@buddha-ThinkPad-T480s:~$ spl-token balance EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  1000000500
+
+
+  - Check token balance of existing accounts. 
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token accounts
+  Token                                         Balance   
+  ---------------------------------------------------------------
+  EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj  1000000500
+
+
+ 
+
+
+8. Limit supply to prevent unlimited minting
+
+  - Disable Miniting
+
+  $spl-token authorize tokenAddress mint --disable
+
+  
+  buddha@buddha-ThinkPad-T480s:~$ spl-token authorize EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj  mint --disable
+  Updating EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Current mint authority: 6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+  New mint authority: disabled
+
+  Signature: 5uSFQ4DUoEVy5rLJmNngUETyuiiGrRZZ5BUFa5ou9dAKVdUqUcXny5z3DaTtyB1wCkaKsbS9LqM12nwfwEEDLeWr
+
+
+  - All thes operations do not cost any SOl at all (very less)
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.00146912 SOL
+
+
+  - Now I can't mint any new tokens myself.
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token mint EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj 500 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  Minting 500 tokens
+  Token: EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Recipient: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  RPC response error -32002: Transaction simulation failed: Error processing Instruction 0: custom program error: 0x5 [5 log messages]
+
+
+  --------------------------------------------------------------------
+  My Wallet address      6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW
+  Token address          EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  Token account          2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  --------------------------------------------------------------------
+
+ 
+
+
+
+9. Transfer token to a browser wallet
+
+  - Send token to browser wallet
+  $ spl-token transfer --fund-recipient tokenAddress transferAmount recipientAddress
+
+
+  - Transfer to a web wallet failed coz I do not had a sufficint balance. Have to fund again.
+  buddha@buddha-ThinkPad-T480s:~$ spl-token transfer --fund-recipient EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj 200 7FsXx9VmHEVSZAjWeDCpfwT771ZPhtNaTJHWo4YNWRrN
+Transfer 200 tokens
+  Sender: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  Recipient: 7FsXx9VmHEVSZAjWeDCpfwT771ZPhtNaTJHWo4YNWRrN
+  Recipient associated token account: CsszeXsxueWdyZvcJaBF7RAW38ZpBXxAdRXAxgM5sW4S
+  Funding recipient: CsszeXsxueWdyZvcJaBF7RAW38ZpBXxAdRXAxgM5sW4S (0.00203928 SOL) 
+  Fee payer, 6fnzr74qEA6AvT2ZNnKhopWxDw3sBPCmYWgysgk8KPW, has insufficient balance: 0.00204428 required, 0.00146912 available
+
+  
+  - My balance
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.00146912 SOL
+
+  - Have to add more SOL. Adding 0.005 SOl more.
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.00646912 SOL
+
+
+  - A successful transfer to a wallet address.
+  buddha@buddha-ThinkPad-T480s:~$ spl-token transfer --fund-recipient EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj 200 7FsXx9VmHEVSZAjWeDCpfwT771ZPhtNaTJHWo4YNWRrN
+  Transfer 200 tokens
+  Sender: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+  Recipient: 7FsXx9VmHEVSZAjWeDCpfwT771ZPhtNaTJHWo4YNWRrN
+  Recipient associated token account: CsszeXsxueWdyZvcJaBF7RAW38ZpBXxAdRXAxgM5sW4S
+  Funding recipient: CsszeXsxueWdyZvcJaBF7RAW38ZpBXxAdRXAxgM5sW4S (0.00203928 SOL)
+
+  Signature: 67S8SLeHfSvk1yGKCxnrSRv49wYDeqab3dvBQm7fM6hhrZANwME5L6FSxHWmZLobzNVsJYrUkKLjuHGxsoTEFGYe
+
+  ---------------------------------------------------------------------------------------------- 
+  I can see the the 200 Unknown Tokens on my Phantom wallet (7FsXx9VmHEVSZAjWeDCpfwT771ZPhtNaTJHWo4YNWRrN) 
+  ---------------------------------------------------------------------------------------------- 
+
+
+
+
+
+10. Token Burning.
+
+  - Burning 200 Tokens.
+  $ spl-token burn [FLAGS] [OPTIONS] <SOURCE_TOKEN_ACCOUNT_ADDRESS> <TOKEN_AMOUNT>
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token burn 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA 200
+  Burn 200 tokens
+    Source: 2vkmMjRH5c3raPyRmZvJsjCRpgR7meb9U7t329aZc8dA
+
+  Signature: 2LzSqUyftpAJNoTsXbghFhqBURPdDdzYck7y3SJPxNm1Pm7nrXdVU5LCcZ68Bw7aMb4JPDkr4mA8nXe6JfhAMGrV
+
+  - My balance 
+  buddha@buddha-ThinkPad-T480s:~$ solana balance
+  0.00441984 SOL
+
+  buddha@buddha-ThinkPad-T480s:~$ spl-token balance EzL6LLmv4vgfF7irkjG7ZxM92bTJ9f6nFopDXJTow7zj
+  1000000100
+
+
+ ----- Alpha  ------------------- 
+ Creating tokens and creating a token account (also onto the funding account) is the most expensive part of the process. 
+
+ These are fungible tokens so I can send parts of the tokens like 0.02 tokens to an address.
+ ----- --------------------------------------------------------------------------------------
+
+
+
+
+
+ 11. Naming the Token.  
+
+
+
+
+
+
+
+
+
+ 
+
+
