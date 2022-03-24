@@ -70,15 +70,17 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 4. [WhoTwi](https://en.whotwi.com/). See what other people are following currently.
    Starting with the most recent follow.
 
-For SOLANA [SolanaNfts](https://solananft.tools/)
+5. [Dune Analytics](https://dune.xyz/browse/dashboards)
 
-5. [Solanalysis](https://hyperspace.xyz/leaderboard) Solana NFT price actions. 
+6. For SOLANA [SolanaNfts](https://solananft.tools/)
+
+   1. [Solanalysis](https://hyperspace.xyz/leaderboard) Solana NFT price actions. 
    
-   [SolanaFloor](https://solanafloor.com/) Similar to Solanalysis
+   2. [SolanaFloor](https://solanafloor.com/) Similar to Solanalysis
    
-   [Solens](https://solens.io/)
+   3. [Solens](https://solens.io/)
    
-   [SolRadar](https://solradar.io/)
+   4. [SolRadar](https://solradar.io/)
 
 #### To find upcoming projects
 
