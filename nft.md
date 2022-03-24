@@ -71,9 +71,13 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
    Starting with the most recent follow.
 
 For SOLANA [SolanaNfts](https://solananft.tools/)
+
 5. [Solanalysis](https://hyperspace.xyz/leaderboard) Solana NFT price actions. 
+   
    [SolanaFloor](https://solanafloor.com/) Similar to Solanalysis
+   
    [Solens](https://solens.io/)
+   
    [SolRadar](https://solradar.io/)
 
 #### To find upcoming projects
