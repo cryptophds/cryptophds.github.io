@@ -73,6 +73,7 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 5. [Dune Analytics](https://dune.xyz/browse/dashboards)
 
 6. For SOLANA [SolanaNfts](https://solananft.tools/)
+   [NFT Sniper](https://nftsniper.net/)
 
    1. [Solanalysis](https://hyperspace.xyz/leaderboard) Solana NFT price actions. 
    
