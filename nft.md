@@ -72,7 +72,9 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 
 5. [Dune Analytics](https://dune.xyz/browse/dashboards)
 
-6. For SOLANA [SolanaNfts](https://solananft.tools/)
+6. [ICY](https://icy.tools/)
+
+7. For SOLANA [SolanaNfts](https://solananft.tools/)
    
    [NFT Sniper](https://nftsniper.net/)
 
