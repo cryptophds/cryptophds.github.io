@@ -11,6 +11,8 @@ aside: false
 
 3. [Pantera Capital](https://panteracapital.com/)
 
+4. [Debank Follow Big Guys Wallet](https://debank.com/ranking)
+
 #### Youtubers to Follow (With Ranking)
 
 1. [Benjamin Cowen](https://www.youtube.com/channel/UCRvqjQPSeaWn-uEx-w0XOIg):
