@@ -74,7 +74,9 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 
 6. [ICY](https://icy.tools/)
 
-7. For SOLANA [SolanaNfts](https://solananft.tools/)
+7. [Whale Alert](https://www.whalestats.com/analysis-of-the-top-100-eth-wallets)
+
+8. For SOLANA [SolanaNfts](https://solananft.tools/)
    
    [NFT Sniper](https://nftsniper.net/)
 
