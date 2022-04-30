@@ -6,11 +6,6 @@ aside: false
 
 https://docs.google.com/spreadsheets/d/14lg1GeZey36GjzJKHJt5AfwyE0SZt9B1CxYKsqe11As/edit#gid=236621108
 
-
-#### Upcoming SOL NFTs:
-1. [GoblinLabs](https://twitter.com/GoblinLabNFT). 27th Oct 2021. 
-   Total 5000 Goblin.  
-   
 #### Upcoming ETH Nfts:
 
 1. @imxpunks [IMX Punk](https://imxpunks.com/). First punk project on Immutable X.
@@ -131,3 +126,7 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
    Mint from the contract and you don't need to go on the site.
    Opensea Sniper. 1 ETH price of the tool.
 
+### Twitter Accounts
+
+1. [Mikey](https://twitter.com/mikeyx_eth). Write great report on the NFT
+   analysis. 
