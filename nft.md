@@ -113,6 +113,7 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 1. [nansen.ai](https://www.nansen.ai/). Best tool for the anlysis. 
    Breakdown, Hodlers tab for each project.  
 
+2. [Flips Finance](https://www.flips.finance/). Movers and ranking for the NFTS.
 
 #### Sniping Tools
 
