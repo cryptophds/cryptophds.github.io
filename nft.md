@@ -71,7 +71,9 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 
 7. [Whale Alert](https://www.whalestats.com/analysis-of-the-top-100-eth-wallets)
 
-8. For SOLANA [SolanaNfts](https://solananft.tools/)
+8. [NFTGO](https://nftgo.io/). Great place to see trends and data.
+
+9. For SOLANA [SolanaNfts](https://solananft.tools/)
    
    [NFT Sniper](https://nftsniper.net/)
 
