@@ -131,3 +131,5 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
 
 1. [Mikey](https://twitter.com/mikeyx_eth). Write great report on the NFT
    analysis. 
+
+2. [The Root](https://twitter.com/therationalroot). BTC on chain analysis.
