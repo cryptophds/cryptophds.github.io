@@ -18,3 +18,9 @@ This course is for students wishing to explore blockchain technology's potential
 {% include video.html id="fOMVZXLjKYo" title="Siteleaf tutorial video" %}
 
 `Bitcoin and Cryptocurrency Technologies provides a comprehensive introduction to the revolutionary yet often misunderstood new technologies of digital currency.`
+
+
+### Development resources:
+1. [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+
+

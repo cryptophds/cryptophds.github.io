@@ -2,41 +2,15 @@
 aside: false
 ---
 
-#### Upcoming IMX Nfts:
-
-https://docs.google.com/spreadsheets/d/14lg1GeZey36GjzJKHJt5AfwyE0SZt9B1CxYKsqe11As/edit#gid=236621108
-
-#### Upcoming ETH Nfts:
+#### Upcoming ETH NFTs:
 
 
-#### Interesting BUY Below 1 ETH
+<br/> 
 
-1. [DeadFellaz](https://opensea.io/collection/deadfellaz).
-   Currently 0.7 ETH. Wait for this go a bit down.  
-2. [HeadDAO](https://opensea.io/collection/headdao). Currently 0.56 ETH. 
-   Wait for around 0.25-0.3 ETH (recently was there).
-3. [Robotos Offical](https://opensea.io/collection/robotos-official).
-   Current floor price is 0.67 ETH. 
-4. [The Wicked Craniums](https://opensea.io/collection/thewickedcraniums). 
-   Floor is 0.17 ETH. Not a premium project.
-5. [Curio Cards](https://opensea.io/collection/curiocardswrapper).
-  Current sloor price is 0.424 ETH. Long back project and can bounce back. 
-  Old hourse.
-6. [MoonCats Rescue](https://opensea.io/collection/wrapped-mooncatsrescue).
-  Current floor price is 0.9 ETH. Looks realted to the mooncat.
+#### Upcoming ETH NFTs:
 
-### DAO Plays 100x possible
+<br/> 
 
-1. [BDCArchade](https://twitter.com/BDCArcade)
-  Pretty early. Can't see any opeansea link.
-
-2. [CryptoZombies](https://opensea.io/collection/cryptozombieznft)
-  Floor is ETH 0.148.
-
-3. [HeadDAO](https://opensea.io/collection/headdao)
-
-### Development resources:
-1. [The Complete Guide to Full Stack Solana Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291) 
 
 #### NFT tools site:
 
@@ -119,9 +93,71 @@ The first of the three is taken from the YouTube Channel [MDNFT](https://www.you
    Mint from the contract and you don't need to go on the site.
    Opensea Sniper. 1 ETH price of the tool.
 
+
+### News and Resources
+
+1. [HelloMoon](https://twitter.com/HelloMoon_io). Thier [Website](https://www.hellomoon.io/nfts)
+2. [SolaLandHQ](https://twitter.com/SolaLandHQ)
+3. [SolsWatch](https://twitter.com/SolsWatch)
+4. [Purple Analysis](https://twitter.com/PurpleAnalysis)
+5. [TheAstronaut](https://twitter.com/thexastronaut)
+6. [Solan Daily](https://twitter.com/solana_daily)
+
+Headlines Style News. They present news in headline format. 
+7. [News Now](https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies/Solana+%28SOL%29)
+8. [Coinfi](https://www.coinfi.com/news/solana)
+9. [Solana News](https://www.web3wire.news/tag/solana)
+10. Daily Solana [twitter feed](https://twitter.com/solana_daily?lang=en)
+11. Main Solana news direct from the [blockchain team](https://solana.com/news)
+12. Solana Upcoming [NFT drops](https://nftcalendar.io/b/solana/)
+13. [Play 2 Earn](https://www.playtoearn.online/category/nfts/)
+14. [Solana L1 News](https://thedefiant.io/layer-1-solana)
+
+### Interesting references
+1. [Metaroids](https://www.metaroids.com/)
+2. [Hacker Noon](https://hackernoon.com/)
+3. ETH based [NFT Culture](https://www.nftculture.com/)  [twitter](https://twitter.com/NftCulture)
+4. [ICO Drop](http://dropstab.com)
+ 
+
+### Analysis and Filter:
+
+1. Best Place to see movers and analytics of Solana NFT project
+Hello Moon seems to be the go to place. [Hello Moon](https://www.hellomoon.io/) 
+
+2. It's easy to copy and paste the movers with [Solana Watch](https://twitter.com/SolsWatch) 
+They produce charts of market movers and losers. 
+
+3. Another player similar to Solana watch. [Astronaut](https://twitter.com/thexastronaut)
+Daily Lamport or previously purple analysis https://twitter.com/DailyLamport they do top 10 of each parameter. You have a good overview.
+
+4. Give functionality w/o holding NFT, [SolSniper](https://www.solsniper.xyz/) Favorite target.
+[NFT Inspect](https://www.nftinspect.xyz/)
+
+Top tweets on solana [Thread Reader](https://threadreaderapp.com/hashtag/Solana)
+
+5. [Tweet Scanner](https://socialbearing.com/search/user/MinisterOfNFTs)
+
+6. [Social media Ranking](https://www.nftinspect.xyz/)
+
+Daily News
+
+1. [Solana Daily](https://twitter.com/solana_daily) publishes headlines. 
+
+2. [News Now UK](https://www.newsnow.co.uk/h/Business+&+Finance/Cryptocurrencies/Solana+%28SOL%29).
+
+3. [Coinfi](https://www.coinfi.com/news/1320248/assessing-whether-y00ts-will-be-the-one-to-take-solana-nfts-to-the-moon) Similar to 2. 
+
+4. [Web3Wire](https://www.web3wire.news/tag/solana) detailed news.
+
+5. [Official News](https://solana.com/news/monthly-community-update-september-2022)
+
+
 ### Twitter Accounts
 
 1. [Mikey](https://twitter.com/mikeyx_eth). Write great report on the NFT
    analysis. 
 
 2. [The Root](https://twitter.com/therationalroot). BTC on chain analysis.
+
+##### Update date : Dec 14th 2022 
