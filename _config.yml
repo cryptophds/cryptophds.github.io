@@ -127,12 +127,8 @@ navigation_header:
   url: /crypto/
 - title: NFT
   url: /nft/
-- title: Investments
-  url: /investments/
 - title: Courses
   url: /courses/
-- title: Tasks
-  url: /tasks/
 - title: Blog
   url: /blog/
 - title: Search
